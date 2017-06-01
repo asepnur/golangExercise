@@ -8,7 +8,7 @@ func main() {
 	var c float64
 	var d bool
 
-	//fmt. Printf = print value depend on default type
+	//fmt. Printf = print value depend on default types
 	fmt.Printf("%v\n", a)
 	fmt.Printf("%v\n", b)
 	fmt.Printf("%v\n", c)
